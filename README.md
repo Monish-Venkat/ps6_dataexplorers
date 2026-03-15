@@ -6,7 +6,7 @@
 - **Competition:** Dataverse
 
 ## Repository Contents
-This repository contains the Jupyter Notebook (`main.ipynb`) with our complete solution,
+This repository contains the Jupyter Notebook (`ps6dataexplorers.ipynb`) with our complete solution,
 analysis, and findings for Problem Statement 6A.
 
 ## Note on Dataset
